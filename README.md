@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   
 
 <br/>  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak6516&theme=onedark" /></a> </p>
+<p align="center"> <a href="https://github.com/vinayak6516/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak6516&theme=darkhub" /></a> </p>
 
 <div align="center"></div>
 <br />
