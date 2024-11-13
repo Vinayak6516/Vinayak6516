@@ -87,8 +87,6 @@ Here are some ideas to get you started:
 
 <div align="center"></div>
 <br />
-<a> 
-  <a href="https://github.com/vinayak6516"><img alt="Vinayak's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vinayak6516&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
   <a href="https://github.com/vinayak6156"><img alt="Vinayak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vinayak6516&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
   <br/>
 </a>
