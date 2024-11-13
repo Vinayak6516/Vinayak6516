@@ -45,15 +45,25 @@ Here are some ideas to get you started:
 
 ### DevOps  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" height="50"/></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" ></a>
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" height="50"></a>
   <a href="https://www.kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" height="50"/></a>
  <a href="https://www.docker.com/"><img style="margin:10px" src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" alt="Docker" height="50"></a>
   <a href="https://www.elastic.co/"><img style="margin:10px"src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="ELK Stack" height="50"></a>
   <a href=""><img style="margin:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="Prometheus" height="50"></a>
 </div>
 
-</td></tr></table>  
+</td></tr>
+<tr><td valign="top" width="33%">
+### Operating Systems
+  <div align="center">  
+    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://freesvg.org/img/Linux-Pinguino.png" alt="Linux" height="50" /></a>
+    <a href="https://unix.org/"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/unix.svg" alt="Unix" height="50" > </a>
+    <a href="https://www.microsoft.com/en-in/windows"> <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQ736P51oQ50xFKjLEvO6KpIdCilAlM-_zg&s" alt="Windows" height="50" > </a>
+    
+  </div>
+</td></tr>
+</table>  
 <br/>  
 
 
