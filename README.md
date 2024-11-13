@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 </td></tr>
 <tr><td valign="top" width="33%">
-###Operating Systems
+### Operating Systems
   <div align="center">  
     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px; background-color:#fff;" src="https://freesvg.org/img/Linux-Pinguino.png" alt="Linux" height="50" /></a>
     <a href="https://unix.org/"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/unix.svg" alt="Unix" height="50" > </a>
