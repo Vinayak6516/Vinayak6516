@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Vinayak, a Web Developer and DevOps Engineer 👨‍💻 🚀</div>
 - 🔭 I’m currently working on PHP 
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on a project that interests me related to PHP
+-🗿🗿 I’m looking to collaborate on a project that interests me related to PHP
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about DevOps
 - 📫 How to reach me: vvinu6516@gmail.com
