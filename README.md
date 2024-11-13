@@ -95,13 +95,13 @@ Here are some ideas to get you started:
 <h2 align="center"> Statistics: </h2>
 
 <p align="center">
-  <a href="https://github.com/channaveer24">
+  <a href="https://github.com/vinayak6516">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak6516&theme=radical&border=7F3FBF&background=0D1117" alt="Vinayak's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://https://github.com/channaveer24">
+  <a href="https://https://github.com/vinayak6516">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak6516&theme=radical" alt="Vinayak's GitHub Contribution"/>
   </a>
 </p>
