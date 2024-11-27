@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" ></a>
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" height="50"></a>
   <a href="https://www.kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" height="50"/></a>
- <a href="https://www.docker.com/"><img style="margin:10px" src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" alt="Docker" height="50"></a>
+ <a href="https://www.docker.com/"><img style="margin:10px" src="https://www.pngwing.com/en/free-png-drhad" alt="Docker" height="50"></a>
   <a href="https://www.elastic.co/"><img style="margin:10px"src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="ELK Stack" height="50"></a>
   <a href="https://prometheus.io/"><img style="margin:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="Prometheus" height="50"></a>
 </div>
